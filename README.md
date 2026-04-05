@@ -18,7 +18,6 @@
 
 ### **Why NewsData.io?**
 - ✅ 2,000 articles/day (vs NewsAPI's 1,000)
-- ✅ City-specific news for India
 - ✅ Full article content (not just snippets)
 - ✅ 13 Indian languages
 - ✅ **FREE for commercial use**
@@ -73,7 +72,6 @@ public static final String NEWS_API_KEY = "pub_12345abcdef...";  // Your key her
 
 ### **Home Screen:**
 - **🔥 Trending Carousel** (top) - Auto-scrolls every 4 seconds
-- **📍 City Selector** - Tap to choose your city
 - **Category Chips** - Politics, Business, Tech, Sports, etc.
 - **News Feed** - Scroll to see all articles
 
@@ -123,11 +121,6 @@ In `Constants.java`:
 public static final String LANGUAGE_ENGLISH = "en";  // Change to "hi" for Hindi
 ```
 
-### **Add More Cities:**
-In `Constants.java` → `getIndianCities()`:
-```java
-cities.add(new City("Lucknow", "lucknow", "🏛️"));
-```
 
 ### **Change Theme Colors:**
 `app/src/main/res/values/colors.xml` → Edit color values
@@ -169,10 +162,11 @@ cities.add(new City("Lucknow", "lucknow", "🏛️"));
 ## 🚀 **Next Steps (Optional Enhancements)**
 
 1. **Add Hindi Language Toggle** - Switch between English/Hindi
-2. **Push Notifications** - Get notified of breaking news
-3. **Share Feature** - Share articles to social media
-4. **Dark Mode** - Night theme support
-5. **Bookmarks Sync** - Cloud backup of favorites
+2. **City News** - Search news of your city
+3. **Push Notifications** - Get notified of breaking news
+4. **Share Feature** - Share articles to social media
+5. **Dark Mode** - Night theme support
+6. **Bookmarks Sync** - Cloud backup of favorites
 
 ---
 
