@@ -3,13 +3,19 @@
 ## 📱 **App Features**
 
 ✅ **India-First News** - Primary focus on Indian news from 86,000+ sources
+
 ✅ **Trending Carousel** - Auto-scrolling top 5 trending stories
-✅ **City-Specific News** - Select from 10 major Indian cities
+
 ✅ **World News Tab** - Secondary section for international news
+
 ✅ **Full Article View** - Read complete articles in-app (WebView)
+
 ✅ **Favorites System** - Save and manage your favorite articles
+
 ✅ **13 Indian Languages** - English, Hindi, Tamil, Telugu, and more
+
 ✅ **Material Design 3** - Beautiful, modern UI
+
 ✅ **Offline Support** - Favorites available offline
 
 ---
