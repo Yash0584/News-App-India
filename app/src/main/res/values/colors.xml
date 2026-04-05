@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#1976D2</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="primary_light">#42A5F5</color>
+    
+    <!-- Secondary Colors -->
+    <color name="secondary">#FF6F00</color>
+    <color name="secondary_dark">#E65100</color>
+    <color name="secondary_light">#FF9800</color>
+    
+    <!-- Surface & Background -->
+    <color name="surface">#FFFFFF</color>
+    <color name="background">#F5F5F5</color>
+    <color name="surface_variant">#E3F2FD</color>
+    
+    <!-- On Colors (text/icons on surfaces) -->
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="on_surface">#1C1B1F</color>
+    <color name="on_surface_variant">#49454F</color>
+    <color name="on_background">#1C1B1F</color>
+    
+    <!-- Error Colors -->
+    <color name="error">#BA1A1A</color>
+    <color name="on_error">#FFFFFF</color>
+    
+    <!-- Outline -->
+    <color name="outline">#79747E</color>
+    <color name="outline_variant">#CAC4D0</color>
+    
+    <!-- Dark Theme Colors -->
+    <color name="primary_dark_theme">#90CAF9</color>
+    <color name="surface_dark">#1C1B1F</color>
+    <color name="background_dark">#121212</color>
+    <color name="on_surface_dark">#E6E1E5</color>
+    <color name="on_surface_variant_dark">#CAC4D0</color>
+    
+    <!-- Other -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#757575</color>
+    <color name="gray_light">#BDBDBD</color>
+</resources>

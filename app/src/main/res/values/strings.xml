@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NewsApp</string>
+    
+    <!-- Main Screen -->
+    <string name="top_headlines">Top Headlines</string>
+    <string name="search_news">Search news…</string>
+    <string name="retry">Retry</string>
+    <string name="no_articles">No articles found</string>
+    <string name="loading">Loading…</string>
+    
+    <!-- Categories -->
+    <string name="all">All</string>
+    <string name="business">Business</string>
+    <string name="technology">Technology</string>
+    <string name="sports">Sports</string>
+    <string name="health">Health</string>
+    <string name="entertainment">Entertainment</string>
+    
+    <!-- Detail Screen -->
+    <string name="read_full_article">Read Full Article</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="bookmarked">Bookmarked</string>
+    <string name="bookmark_added">Article bookmarked</string>
+    <string name="bookmark_removed">Bookmark removed</string>
+    
+    <!-- Bookmarks Screen -->
+    <string name="bookmarks">Bookmarks</string>
+    <string name="no_bookmarks">No bookmarks yet</string>
+    <string name="save_articles">Save articles to read them later</string>
+    
+    <!-- Errors -->
+    <string name="error_network">Network error. Please check your connection.</string>
+    <string name="error_loading">Failed to load news. Please try again.</string>
+    <string name="error_search">Search failed. Please try again.</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="something_wrong">Something went wrong</string>
+    
+    <!-- Menu -->
+    <string name="action_search">Search</string>
+    <string name="action_bookmarks">Bookmarks</string>
+</resources>
